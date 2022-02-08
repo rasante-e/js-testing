@@ -1,0 +1,10 @@
+{
+    "name": "rae-testing",
+    "version": "1.0.0",
+ "scripts": {
+ "build": "babel src -d lib"
+},
+    "devDependencies": {
+      "@babel/cli": "^7.0.0"
+    }
+  }
